@@ -1,2 +1,7 @@
+<div align:"center">
 # AcidArdux
-8 key wierless ardux keyboard
+
+The Acid Ardux is a wierless one handed keyboard unsing a seeduino
+
+</div>
+
